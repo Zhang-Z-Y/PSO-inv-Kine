@@ -1,2 +1,2 @@
-# POE-inv-Kine
+# PSO-inv-Kine
 参考书籍是《可重构机械臂的动力学控制方法》中2.3节。Matlab也是对于该方法的复现。
